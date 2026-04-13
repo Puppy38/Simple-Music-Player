@@ -1,12 +1,12 @@
 # Simple Music Player
-A simple music player made in C# that can play mp3 files, wav files and wma files.
-![Music Player Screenshot](screenshot.png)
+A simple music player made in C# that can play mp3 files, wav files , aac files, mid files , midi files and wma files.
+![Music Player Screenshot](screenshotNEW.png)
 ### How to Run
 Go to the Releases section and download the latest version.
 ### How To Compile
 To **Build From Source** you need to 
 1. Download the source code
-2. Have **.NET** Installed
+2. Have **.NET 4.8** Installed
 3. Open Command Prompt
 4. Type
    ```cmd
